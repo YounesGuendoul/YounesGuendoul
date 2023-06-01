@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younesguendoul&label=Profile%20views&color=0e75b6&style=flat" alt="younesguendoul" /> </p>
 
-- 💬 Ask me about **python , Machine Learning , Deep Learning**
+- 💬 Ask me about **Python , Machine Learning , Deep Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
