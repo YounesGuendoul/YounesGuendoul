@@ -24,4 +24,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=younesguendoul&" alt="younesguendoul" /></p>
 
 ### Random Dev Quote :
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave)
