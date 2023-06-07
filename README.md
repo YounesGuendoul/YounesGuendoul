@@ -5,7 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younesguendoul&label=Profile%20views&color=0e75b6&style=flat" alt="younesguendoul" /> </p>
 
-- 💬 Ask me about **Python, ML, DL, NLP, Generative AI**
+
+- 🔭 I’m currently Studying at **INPT**
+
+- 🌱 I’m currently learning **Generative AI**
+
+- 👯 I’m looking to collaborate on **innovative AI projects**
+
+- 💬 Ask me about **Python, ML, DL, NLP**
+
+- 📫 How to reach me **younes17072001@gmail.com**
+
+- ⚡ Fun fact **The first computer mouse was made of wood**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
