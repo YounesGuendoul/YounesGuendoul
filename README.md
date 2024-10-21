@@ -6,9 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younesguendoul&label=Profile%20views&color=0e75b6&style=flat" alt="younesguendoul" /> </p>
 
 
-- 🔭 Graduated from **INPT**
 
-- 🌱 I’m currently learning **Generative AI**
+- 🔭 I’m currently learning **Generative AI**
 
 - 👯 I’m looking to collaborate on **innovative AI projects**
 
